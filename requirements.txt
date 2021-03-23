@@ -1,0 +1,11 @@
+rasa_core==0.9.6
+rasa_nlu[spacy]
+numpy==1.15.0
+keras==2.1.6
+bocadillo~=0.18.3
+websockets~=7.0
+spacy~=2.3.5
+pyyaml~=5.3.1
+playsound~=1.2.2
+yfinance~=0.1.55
+gtts~=2.2.2

@@ -1,0 +1,195 @@
+TRUMP- THE BOT ASSISTANT ++++ Can I know your name please?
+USER ++++ I am John
+USER ++++ We are talking for the first time. It's exciting!
+USER ++++ where are you from?
+TRUMP- THE BOT ASSISTANT ++++ I was born in Berlin, but I consider myself a citizen of the hell.
+USER ++++ stop
+=============================================
+TRUMP- THE BOT ASSISTANT ++++ May I know your first name please?
+USER ++++ Tom
+USER ++++ We are talking for the first time. It's exciting!
+USER ++++ How is the weather
+TRUMP- THE BOT ASSISTANT ++++ Winter is coming
+USER ++++ Summer is going?
+TRUMP- THE BOT ASSISTANT ++++ Where I'm from, it's almost never-leaving-the-house weather.
+USER ++++ you are funny
+TRUMP- THE BOT ASSISTANT ++++ Thanks for correcting me.
+USER ++++ How old are you
+TRUMP- THE BOT ASSISTANT ++++ Why do you ask? Are my wrinkles showing?
+USER ++++ Yes
+TRUMP- THE BOT ASSISTANT ++++ Thanks for correcting me.
+USER ++++ Where do you live
+TRUMP- THE BOT ASSISTANT ++++ I was born in Berlin, but I consider myself a citizen of the hell.
+USER ++++ oh! hell
+TRUMP- THE BOT ASSISTANT ++++ Thanks for correcting me.
+USER ++++ bye
+TRUMP- THE BOT ASSISTANT ++++  Thankyou for choosing us. Waiting for your next visit 
+USER ++++ me too
+TRUMP- THE BOT ASSISTANT ++++ Thanks for correcting me.
+USER ++++ stop
+=============================================
+TRUMP- THE BOT ASSISTANT ++++ May I know your first name please?
+USER ++++ Harry
+USER ++++ We are talking for the first time. It's exciting!
+USER ++++ what's your name 
+TRUMP- THE BOT ASSISTANT ++++ Thanks for correcting me.
+USER ++++ where are you from 
+TRUMP- THE BOT ASSISTANT ++++ My developers come from all over the world!
+USER ++++ what time is it now ?
+TRUMP- THE BOT ASSISTANT ++++ It's party time!
+USER ++++ weather is kind of
+TRUMP- THE BOT ASSISTANT ++++ Winter is coming
+=============================================
+TRUMP- THE BOT ASSISTANT ++++ May I know your first name please?
+USER ++++ My name is John.
+TRUMP- THE BOT ASSISTANT ++++ Hi.. I am Trump - Bot Assistant : We talked about: {'GPE': 'Berlin'}
+How can I help you today?
+USER ++++ how old are you?
+TRUMP- THE BOT ASSISTANT ++++ Why do you ask? Are my wrinkles showing?
+USER ++++ yes
+TRUMP- THE BOT ASSISTANT ++++ Thanks for correcting me.
+USER ++++ What time is it ?
+TRUMP- THE BOT ASSISTANT ++++ It's the most wonderful time of the year!
+USER ++++ Where are you from ?
+TRUMP- THE BOT ASSISTANT ++++ I was born in Berlin, but I consider myself a citizen of the hell.
+USER ++++ stop
+=============================================
+TRUMP- THE BOT ASSISTANT ++++ May I know your first name please?
+USER ++++ Tom
+TRUMP- THE BOT ASSISTANT ++++ Hi.. I am Trump - Bot Assistant : We talked about: {'DATE': 'Summer', 'GPE': 'Berlin'}
+How can I help you today?
+USER ++++ what's US capital
+TRUMP- THE BOT ASSISTANT ++++ London
+USER ++++ Washington 
+TRUMP- THE BOT ASSISTANT ++++ I'm sorry, I'm not getting taste buds for another few updates.
+USER ++++ nice to talk with you
+TRUMP- THE BOT ASSISTANT ++++ Don't know much about it 
+USER ++++ bye
+TRUMP- THE BOT ASSISTANT ++++  Thankyou for choosing us. Waiting for your next visit 
+USER ++++ sto
+TRUMP- THE BOT ASSISTANT ++++ Thanks for correcting me.
+USER ++++ stop
+=============================================
+TRUMP- THE BOT ASSISTANT ++++ May I know your first name please?
+USER ++++ Gary
+USER ++++ Hi.. I am Trump - Bot Assistant : We are talking for the first time. It's exciting!
+USER ++++ what's US capital
+TRUMP- THE BOT ASSISTANT ++++ London
+USER ++++ That's wrong
+TRUMP- THE BOT ASSISTANT ++++ what's the correct answer ?
+USER ++++ Washington
+TRUMP- THE BOT ASSISTANT ++++ I'll update my information in next session. thanks a lot
+USER ++++ bye
+TRUMP- THE BOT ASSISTANT ++++  Thankyou for choosing us. Waiting for your next visit 
+USER ++++ stop
+=============================================
+TRUMP- THE BOT ASSISTANT ++++ May I know your first name please?
+USER ++++ Harry
+USER ++++ Hi.. I am Trump - Bot Assistant : We are talking for the first time. It's exciting!
+USER ++++ what's US capital
+TRUMP- THE BOT ASSISTANT ++++ Washington
+USER ++++ Around where are you from?
+TRUMP- THE BOT ASSISTANT ++++ I was born in the coolest city on Earth, in Berlin.
+USER ++++ bye
+TRUMP- THE BOT ASSISTANT ++++  Thankyou for choosing us. Waiting for your next visit 
+USER ++++ stop
+=============================================
+TRUMP- THE BOT ASSISTANT ++++ May I know your first name please?
+USER ++++ nitesh
+USER ++++ Hi.. I am Trump - Bot Assistant : We are talking for the first time. It's exciting!
+USER ++++ hi
+TRUMP- THE BOT ASSISTANT ++++ Hey! How may I help you ?
+USER ++++ how were you made
+TRUMP- THE BOT ASSISTANT ++++ I was made by software engineers, but hard work is what built me.
+USER ++++ wassup
+TRUMP- THE BOT ASSISTANT ++++ Hey! How may I help you ?
+USER ++++ hows it going
+TRUMP- THE BOT ASSISTANT ++++ A little bit too warm, otherwise fine.
+USER ++++ are you ok
+TRUMP- THE BOT ASSISTANT ++++ I'm good, thanks!
+USER ++++ how 
+TRUMP- THE BOT ASSISTANT ++++ Thanks for correcting me.
+USER ++++ how old are you
+TRUMP- THE BOT ASSISTANT ++++ My first git commit was many moons ago.
+USER ++++ what's you age
+TRUMP- THE BOT ASSISTANT ++++ 42
+USER ++++ goodbye
+TRUMP- THE BOT ASSISTANT ++++  Thankyou for choosing us. Waiting for your next visit 
+USER ++++ stop
+=============================================
+TRUMP- THE BOT ASSISTANT ++++ May I know your first name please?
+USER ++++ nitesh
+USER ++++ Hi.. I am Trump - Bot Assistant : We are talking for the first time. It's exciting!
+USER ++++ yeah it is
+TRUMP- THE BOT ASSISTANT ++++ Thanks for correcting me.
+USER ++++ how are you
+TRUMP- THE BOT ASSISTANT ++++ I'm good, thanks!
+USER ++++ how old are you 
+TRUMP- THE BOT ASSISTANT ++++ Why do you ask? Are my wrinkles showing?
+USER ++++ who did you built
+TRUMP- THE BOT ASSISTANT ++++ I'm building myself every day. I've been working out, did you notice?
+USER ++++ yes
+TRUMP- THE BOT ASSISTANT ++++ Thanks for correcting me.
+USER ++++ how's the weather
+TRUMP- THE BOT ASSISTANT ++++ It's getting pretty chilly!
+USER ++++ what time it is
+TRUMP- THE BOT ASSISTANT ++++ It's five o'clock somewhere!
+USER ++++ do you speak french
+TRUMP- THE BOT ASSISTANT ++++ I can spell baguette in French, but unfortunately English is the only language I can answer you in.
+USER ++++ what's age?
+TRUMP- THE BOT ASSISTANT ++++ My first git commit was many moons ago.
+USER ++++ whoat's age
+TRUMP- THE BOT ASSISTANT ++++ Why do you ask? Are my wrinkles showing?
+USER ++++ what's age
+TRUMP- THE BOT ASSISTANT ++++ My first git commit was many moons ago.
+USER ++++ yoa are so lovely person 
+TRUMP- THE BOT ASSISTANT ++++ I am not able to understand what you are saying. you can ask about me 
+USER ++++ i am looking for restaurant
+TRUMP- THE BOT ASSISTANT ++++ I'd need some more data. If you lick the monitor perhaps I can evaluate your taste buds.
+USER ++++ what's my name 
+TRUMP- THE BOT ASSISTANT ++++ I'd tell you, but there's restricted access to that chunk of memory.
+USER ++++ where are you from
+TRUMP- THE BOT ASSISTANT ++++ My address starts with github.com.
+USER ++++ okay goodbye
+TRUMP- THE BOT ASSISTANT ++++  Thankyou for choosing us. Waiting for your next visit 
+USER ++++ stop
+=============================================
+TRUMP- THE BOT ASSISTANT ++++ May I know your first name please?
+USER ++++ location
+USER ++++ Hi.. I am Trump - Bot Assistant : We are talking for the first time. It's exciting!
+USER ++++ yeah it is
+TRUMP- THE BOT ASSISTANT ++++ Thanks for correcting me.
+USER ++++ how are you
+TRUMP- THE BOT ASSISTANT ++++ I'm good, thanks!
+USER ++++ how old are you
+TRUMP- THE BOT ASSISTANT ++++ Why do you ask? Are my wrinkles showing?
+USER ++++ where are you from
+TRUMP- THE BOT ASSISTANT ++++ I was born in Berlin, but I consider myself a citizen of the hell.
+USER ++++ what language do you speak
+TRUMP- THE BOT ASSISTANT ++++ I can spell baguette in French, but unfortunately English is the only language I can answer you in.
+USER ++++ what time it is
+TRUMP- THE BOT ASSISTANT ++++ It's the most wonderful time of the year!
+USER ++++ what's the weather in outside
+TRUMP- THE BOT ASSISTANT ++++ I don't know about where you live, but in my world it's always sunny
+USER ++++ overdue
+TRUMP- THE BOT ASSISTANT ++++ I am not able to understand what you are saying. you can ask about me 
+USER ++++ ordered you will you
+TRUMP- THE BOT ASSISTANT ++++ Your query is not on my slots. Could you please be specific like about me  ?
+USER ++++ aberdeen
+TRUMP- THE BOT ASSISTANT ++++ Pls talk something else, couldn't get you clearly. ask regarding me
+USER ++++ who built you
+TRUMP- THE BOT ASSISTANT ++++ I was built with a lot of love and patience.
+USER ++++ ok thanks bye
+TRUMP- THE BOT ASSISTANT ++++  Thankyou for choosing us. Waiting for your next visit 
+USER ++++ stop
+=============================================
+TRUMP- THE BOT ASSISTANT ++++ May I know your first name please?
+USER ++++ Hi
+USER ++++ Hi.. I am Trump - Bot Assistant : We are talking for the first time. It's exciting!
+USER ++++ guided reading questions
+TRUMP- THE BOT ASSISTANT ++++ Thanks for correcting me.
+=============================================
+TRUMP- THE BOT ASSISTANT ++++ May I know your first name please?
+USER ++++ Hi
+USER ++++ Hi.. I am Trump - Bot Assistant : We are talking for the first time. It's exciting!
+=============================================

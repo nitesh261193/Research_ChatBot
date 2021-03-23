@@ -1,0 +1,74 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": []
+    },
+    "utter_ask_isbot": {
+      "slots": []
+    },
+    "utter_greet": {
+      "slots": []
+    },
+    "utter_ask_time": {
+      "slots": []
+    },
+    "utter_ask_weather": {
+      "slots": []
+    },
+    "utter_improvement": {
+      "slots": []
+    },
+    "utter_feedback": {
+      "slots": []
+    },
+    "utter_bye": {
+      "slots": []
+    },
+    "utter_telljoke": {
+      "slots": []
+    },
+    "utter_ask_howold": {
+      "slots": []
+    },
+    "utter_ask_restaurant": {
+      "slots": []
+    },
+    "utter_ask_ishuman": {
+      "slots": []
+    },
+    "utter_ask_whatismyname": {
+      "slots": []
+    },
+    "utter_ask_wherefrom": {
+      "slots": []
+    },
+    "utter_ask_howdoing": {
+      "slots": []
+    },
+    "utter_ask_howbuilt": {
+      "slots": []
+    },
+    "utter_ask_whatspossible": {
+      "slots": []
+    },
+    "utter_ask_whoami": {
+      "slots": []
+    },
+    "utter_ask_languagesbot": {
+      "slots": []
+    },
+    "utter_knowledge": {
+      "slots": []
+    }
+  },
+  "rasa_core": "0.9.6",
+  "max_histories": [
+    5,
+    5
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.keras_policy.KerasPolicy"
+  ]
+}
